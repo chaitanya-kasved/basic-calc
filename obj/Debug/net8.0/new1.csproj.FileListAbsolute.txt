@@ -1,0 +1,14 @@
+/home/ubuntu/Desktop/new1/obj/Debug/net8.0/new1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Desktop/new1/obj/Debug/net8.0/new1.AssemblyInfoInputs.cache
+/home/ubuntu/Desktop/new1/obj/Debug/net8.0/new1.AssemblyInfo.cs
+/home/ubuntu/Desktop/new1/obj/Debug/net8.0/new1.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/new1/bin/Debug/net8.0/new1
+/home/ubuntu/Desktop/new1/bin/Debug/net8.0/new1.deps.json
+/home/ubuntu/Desktop/new1/bin/Debug/net8.0/new1.runtimeconfig.json
+/home/ubuntu/Desktop/new1/bin/Debug/net8.0/new1.dll
+/home/ubuntu/Desktop/new1/bin/Debug/net8.0/new1.pdb
+/home/ubuntu/Desktop/new1/obj/Debug/net8.0/new1.dll
+/home/ubuntu/Desktop/new1/obj/Debug/net8.0/refint/new1.dll
+/home/ubuntu/Desktop/new1/obj/Debug/net8.0/new1.pdb
+/home/ubuntu/Desktop/new1/obj/Debug/net8.0/new1.genruntimeconfig.cache
+/home/ubuntu/Desktop/new1/obj/Debug/net8.0/ref/new1.dll
